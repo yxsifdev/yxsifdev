@@ -1,16 +1,52 @@
-<h1 style="text-align:center">Yosif</h1>
+<div align="center">
 
-- 👋 Hola, soy @yxsifdev
-- 👀 Me interesa el desarrollo web.
-- 🌱 Actualmente estoy aprendiendo PHP y MySQL para desarrollo back-end.
-- 💻 Con experiencia en front-end utilizando HTML, CSS y JavaScript.
-- ⚡ Dato curioso: CEBOLLA!
+<h1>¡Hola! Soy yosif 👋</h1>
 
-[![](https://raw.githubusercontent.com/yxsifdev/profile-summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/yxsifdev)
-[![](https://raw.githubusercontent.com/yxsifdev/profile-summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/yxsifdev) [![](https://raw.githubusercontent.com/yxsifdev/profile-summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/yxsifdev)
-[![](https://raw.githubusercontent.com/yxsifdev/profile-summary-cards/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/yxsifdev) [![](https://raw.githubusercontent.com/yxsifdev/profile-summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/yxsifdev)
+  <a href="https://yxsif.netlify.app/">Portfolio</a>
 
-<!---
-yxsifdev/yxsifdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![](https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![](https://img.shields.io/badge/js-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
+![](https://img.shields.io/badge/MySql-0d1117?style=for-the-badge&logo=mysql&logoColor=blue)
+![](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
+
+<em><strong>1 año de experiencia como desarrollador fron-tend</strong></em>
+
+👀 Me interesa el desarrollo web.
+
+🌱 Actualmente estoy aprendiendo PHP y MySQL para desarrollo back-end.
+
+💻 Con experiencia en front-end utilizando HTML, CSS y JavaScript.
+⚡ Dato curioso: CEBOLLA!
+
+<a href="https://instagram.com/yxsif_">![](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=automatic)</a>
+<a href="https://github.com/yxsifdev">![](https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white)</a>
+
+</div>
+
+# 📚 Estadísticas
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yxsifdev&show_icons=true&theme=rose_pine"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yxsifdev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yxsifdev&show_icons=true" />
+</picture>
+<br />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&layout=donut&theme=rose_pine"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&layout=donut"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&layout=donut" />
+</picture>
