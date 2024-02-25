@@ -25,8 +25,6 @@
 <a href="https://instagram.com/yxsif_">![](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=automatic)</a>
 <a href="https://github.com/yxsifdev">![](https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white)</a>
 
-</div>
-
 # 📚 Estadísticas
 
 
@@ -53,3 +51,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&layout=donut" />
 </picture>
+
+
+</div>
