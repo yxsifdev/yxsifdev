@@ -20,7 +20,8 @@
 🌱 Actualmente estoy aprendiendo PHP y MySQL para desarrollo back-end.
 
 💻 Con experiencia en front-end utilizando HTML, CSS y JavaScript.
-⚡ Dato curioso: CEBOLLA!
+
+<strong>CEBOLLA! 🧅</strong>
 
 <a href="https://instagram.com/yxsif_">![](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=automatic)</a>
 <a href="https://github.com/yxsifdev">![](https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white)</a>
