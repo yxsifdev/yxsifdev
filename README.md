@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>¡Hola! Soy yosif 👋</h1>
+<h1>¡Hola! Soy yxsif 👋</h1>
 
   <a href="https://yxsif.netlify.app/">Portfolio</a>
 
