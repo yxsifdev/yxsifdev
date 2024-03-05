@@ -2,7 +2,7 @@
 
 <h1>¡Hola! Soy yxsif 👋</h1>
 
-  <a href="https://yxsif.netlify.app/">Portfolio</a>
+  <a href="https://yxsif.pages.dev/">Portfolio</a>
 
 ![](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![](https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
