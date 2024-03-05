@@ -29,24 +29,9 @@
 # 📚 Estadísticas
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yxsifdev&show_icons=true&theme=rose_pine"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yxsifdev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yxsifdev&show_icons=true" />
-</picture>
-<br />
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&layout=donut&theme=rose_pine"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yxsifdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=070024"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=070024&layout=compact"/></p>
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&layout=donut"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
