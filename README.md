@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
 ![](https://img.shields.io/badge/php-0d1117?style=for-the-badge&logo=php&logoColor=blue)
 ![](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=blue)
-![](https://img.shields.io/badge/vite-0d1117?style=for-the-badge&logo=vite&logoColor=blue)
+![](https://img.shields.io/badge/vite-0d1117?style=for-the-badge&logo=vite&logoColor=purple)
 
 ![](https://img.shields.io/badge/MySql-0d1117?style=for-the-badge&logo=mysql&logoColor=blue)
 ![](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
