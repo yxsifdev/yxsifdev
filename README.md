@@ -8,10 +8,6 @@
 ![](https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
 
-![](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
-
-
-
 <em><strong>1 año de experiencia como desarrollador fron-tend</strong></em>
 
 👀 Me interesa el desarrollo web.
