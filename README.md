@@ -7,10 +7,7 @@
 ![](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![](https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
-![](https://img.shields.io/badge/php-0d1117?style=for-the-badge&logo=php&logoColor=blue)
-![](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=blue)
 
-![](https://img.shields.io/badge/MySql-0d1117?style=for-the-badge&logo=mysql&logoColor=blue)
 ![](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
 
 
@@ -18,8 +15,6 @@
 <em><strong>1 año de experiencia como desarrollador fron-tend</strong></em>
 
 👀 Me interesa el desarrollo web.
-
-🌱 Actualmente estoy aprendiendo PHP y MySQL para desarrollo back-end.
 
 💻 Con experiencia en front-end utilizando HTML, CSS y JavaScript.
 
