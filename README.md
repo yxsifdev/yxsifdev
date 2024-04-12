@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/tailwindcss-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00aae4)
 
 ![](https://img.shields.io/badge/mongodb-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
+![](https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=00aae4)
 
 
 <em><strong>1 año de experiencia como desarrollador fron-tend</strong></em>
