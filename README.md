@@ -7,8 +7,11 @@
 ![](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![](https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
-![](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=blue)
+![](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=00aae4)
 ![](https://img.shields.io/badge/tailwindcss-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00aae4)
+
+![](https://img.shields.io/badge/mongodb-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
+
 
 <em><strong>1 año de experiencia como desarrollador fron-tend</strong></em>
 
