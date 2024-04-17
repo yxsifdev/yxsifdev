@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![](https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
+
 ![](https://img.shields.io/badge/nodejs-0d1117?style=for-the-badge&logo=node.js&logoColor=green)
 ![](https://img.shields.io/badge/mongodb-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
 ![](https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=00aae4)
