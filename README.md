@@ -10,17 +10,15 @@
 
 ![](https://img.shields.io/badge/nodejs-0d1117?style=for-the-badge&logo=node.js&logoColor=green)
 ![](https://img.shields.io/badge/mongodb-0d1117?style=for-the-badge&logo=mongodb&logoColor=green)
-![](https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=00aae4)
 
 <em><strong>Aprendiendo</strong></em>
 
 ![](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=00aae4)
 ![](https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=typescript&logoColor=00aae4)
-![](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=00aae4)
 ![](https://img.shields.io/badge/tailwindcss-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00aae4)
 
-
-
+![](https://img.shields.io/badge/php-0d1117?style=for-the-badge&logo=php&logoColor=00aae4)
+![](https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=00aae4)
 
 <em><strong>1 año de experiencia como desarrollador fron-tend</strong></em>
 
