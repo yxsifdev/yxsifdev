@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
 
 <em><strong>Aprendiendo</strong></em>
+
 ![](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=00aae4)
 ![](https://img.shields.io/badge/tailwindcss-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00aae4)
 
