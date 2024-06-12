@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/php-0d1117?style=for-the-badge&logo=php&logoColor=00aae4)
 ![](https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=00aae4)
 
-<em><strong>+2 año de experiencia como desarrollador fron-tend</strong></em>
+<em><strong>+2 años de experiencia como desarrollador Frontend</strong></em>
 
 👀 Me interesa el desarrollo web.
 
