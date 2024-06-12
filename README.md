@@ -25,9 +25,7 @@
 
 👀 Me interesa el desarrollo web.
 
-💻 Con experiencia en front-end utilizando HTML, CSS y JavaScript.
-
-<strong>CEBOLLA! 🧅</strong>
+💻 Con experiencia en frontend utilizando HTML, CSS y JavaScript.
 
 <a href="https://instagram.com/yxsif.dev">![](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=automatic)</a>
 <a href="https://twitter.com/yxsifdev">![](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=automatic)</a>
