@@ -53,4 +53,4 @@ Cuento con más de 2 años de experiencia como Desarrollador Frontend. Actualmen
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxsifdev&show_icons=true)
