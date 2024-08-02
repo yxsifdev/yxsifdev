@@ -37,26 +37,20 @@ Cuento con más de 2 años de experiencia como Desarrollador Frontend. Actualmen
 
 ## Tecnologías
 
-### Con Experiencia
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Astro](https://img.shields.io/badge/astro-orange?style=for-the-badge&logo=astro&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-orange?style=for-the-badge&logo=astro&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Aprendiendo
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
 
-<p align="center">
-  <a href="https://github.com/yxsifdev"><img alt="yxsifdev GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yxsifdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<br>
-  <a href="https://github.com/yxsifdev"><img alt="yxsifdev Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
