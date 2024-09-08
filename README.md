@@ -13,10 +13,10 @@ Cuento con más de 2 años de experiencia como Desarrollador Frontend. Actualmen
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yxsifdev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yxsifdev&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yxsifdev&border=true&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yxsifdev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=yxsifdev&border=true&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yxsifdev&icon=2&color=0)](https://visitcount.itsvg.in)
