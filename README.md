@@ -1,5 +1,4 @@
 # 💫 Sobre mí:
-Cuento con más de 2 años de experiencia como Desarrollador Frontend. Actualmente me encuentro siguiendo mi carrera de "Desarrollo de Software". Busco seguir perfeccionando mis habilidades en el mundo de la tecnología.<br><br>⭐ Disfruto programar y compartir mis conocimientos<br>❤️ Me encanta escribir código y aprender sobre nuevas funciones.
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discord.gg/H2DN5WRXmW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yxsif.dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27255085/yxsifdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yxsifdev) 
 
