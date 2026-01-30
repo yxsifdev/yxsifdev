@@ -1,4 +1,4 @@
-- [website](https://yxsifdev.pages.dev/)
+- [website](https://yxsifdev.vercel.app/)
 - [instagram](https://instagram.com/yxsif.dev)
 - [twitter](https://x.com/yxsifdev)
 - [discord](https://discord.com)
