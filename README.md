@@ -7,7 +7,6 @@
 <img
 src="https://github-readme-stats.vercel.app/api?username=imhvit&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
 />
-
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhvit&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true"
 />
