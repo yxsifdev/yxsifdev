@@ -3,20 +3,20 @@
   <img src="https://komarev.com/ghpvc/?username=imhvit&label=Profile%20views&color=8a2be2&style=flat-square" />
 </div>
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
 <img
 src="https://github-readme-stats.vercel.app/api?username=imhvit&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
 />
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhvit&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true"
 />
+</p>
 
-</div>
-<div style="display: flex; justify-content: center;">
+<p align="center">
 <img
 src="https://streak-stats.demolab.com?user=imhvit&theme=tokyonight&background=00000000&hide_border=true"
 />
-</div>
+</p>
 
 <h3 align="center">🧸 Mis proyectos</h3>
 
