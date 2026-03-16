@@ -3,8 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=imhvit&label=Profile%20views&color=8a2be2&style=flat-square" />
 </div>
 
----
-
 <div style="display: flex; justify-content: center;">
 <img
 src="https://github-readme-stats.vercel.app/api?username=imhvit&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
