@@ -5,15 +5,6 @@
 
 <p align="center">
 <img
-src="https://github-readme-stats.vercel.app/api?username=imhvit&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
-/>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhvit&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true"
-/>
-</p>
-
-<p align="center">
-<img
 src="https://streak-stats.demolab.com?user=imhvit&theme=tokyonight&background=00000000&hide_border=true"
 />
 </p>
@@ -22,6 +13,7 @@ src="https://streak-stats.demolab.com?user=imhvit&theme=tokyonight&background=00
 
 ---
 
+- 📦 [**query-persist**](https://github.com/imhvit/query-persist) Controla cómo se preservan los parámetros de query entre URLs.
 - 📦 [**Boardly**](https://github.com/imhvit/boardly) Plataforma de gestión ágil diseñada para administrar flujos de trabajo.
 - 🎨 [**Rely UI**](https://github.com/withrely/rely-ui-vue) Librería de componentes UI en TypeScript para Vue.js.
 
