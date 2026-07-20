@@ -13,7 +13,7 @@ src="https://streak-stats.demolab.com?user=imhvit&theme=tokyonight&background=00
 
 ---
 
-- 🔗 [**sima**](https://github.com/imhvit/sima) Sistema web de gestión de almacenes e inventarios para controlar, rastrear y auditar movimientos de stock.
+- 📊 [**sima**](https://github.com/imhvit/sima) Sistema web de gestión de almacenes e inventarios para controlar, rastrear y auditar movimientos de stock.
 - 🔗 [**query-persist**](https://github.com/imhvit/query-persist) Controla cómo se preservan los parámetros de query entre URLs.
 - 📦 [**Boardly**](https://github.com/imhvit/boardly) Plataforma de gestión ágil diseñada para administrar flujos de trabajo.
 - 🎨 [**Rely UI**](https://github.com/withrely/rely-ui-vue) Librería de componentes UI en TypeScript para Vue.js.
