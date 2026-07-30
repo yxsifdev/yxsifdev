@@ -1,61 +1,28 @@
-<div align="center">
-  <h2>👋 Holap</h2>
-  <img src="https://komarev.com/ghpvc/?username=imhvit&label=Profile%20views&color=8a2be2&style=flat-square" />
-</div>
+<h2> ¡Hola, soy Yosif! <img src="https://github.com/user-attachments/assets/86dc68d7-a218-4e78-bac1-70882fe1edbe" width="30"></h2>
 
-<p align="center">
-<img
-src="https://streak-stats.demolab.com?user=imhvit&theme=tokyonight&background=00000000&hide_border=true"
-/>
-</p>
+<p><em>
+Desarrollador de Software</em></p>
 
-<h3 align="center">🧸 Mis proyectos</h3>
+[![Linkedin: yosifbt](https://img.shields.io/badge/-yosifbt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yosifbt/)](https://www.linkedin.com/in/yosifbt/)
+[![GitHub Yosif](https://img.shields.io/github/followers/imhvit?label=follow&style=social)](https://github.com/imhvit)
+
+
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBvbjE5d3lvN3FiNWczZG5iamx1eWxvMzhzb2ZqbHZnaTZkNHlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="50"> Un poco más sobre mí...  
+
+```javascript
+const yosif = {
+  lenguajes: ["PHP", "JavaScript", "TypeScript", "SQL"],
+  frameworks: ["Laravel", "Vue.js", "Inertia.js", "Tailwind CSS"],
+  herramientas: ["Git", "GitHub", "Bruno", "Trello"],
+  proyectos: {
+    sima: "Gestión de almacenes e inventarios",
+    query_persist: "Persistencia de estado en query params",
+    boardly: "Plataforma de gestión ágil de flujos de trabajo"
+  },
+  aprendiendo: "React & TypeScript"
+}
+```
+
+<em>Disfruto transformar ideas en código y soluciones funcionales.</em>
 
 ---
-
-- 📊 [**sima**](https://github.com/imhvit/sima) Sistema web de gestión de almacenes e inventarios para controlar, rastrear y auditar movimientos de stock.
-- 🔗 [**query-persist**](https://github.com/imhvit/query-persist) Controla cómo se preservan los parámetros de query entre URLs.
-- 📦 [**Boardly**](https://github.com/imhvit/boardly) Plataforma de gestión ágil diseñada para administrar flujos de trabajo.
-- 🎨 [**Rely UI**](https://github.com/withrely/rely-ui-vue) Librería de componentes UI en TypeScript para Vue.js.
-
-<h3 align="center">🌵 Mis habilidades</h3>
-
----
-
-<h4 align="center">🧠 Lenguajes de programación</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-<h4 align="center">📦 Frameworks y Librerías</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-2496ED?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
-
-<h4 align="center">⚙️ Software</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bruno-FF6C37?style=flat-square&logo=bruno&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-
-<h4 align="center">☁️ Infraestructura y bases de datos</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
